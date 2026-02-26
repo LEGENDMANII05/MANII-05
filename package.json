@@ -15,17 +15,19 @@
   "author": "MANII-05-MD",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:wileys",
-    "awesome-phonenumber": "7.2.0",
-    "body-parser": "^1.20.3",
-    "express": "^4.18.1",
-    "megajs": "^1.3.9",
-    "path": "^0.12.7",
-    "jimp": "^0.16.1",
-    "phone": "3.1.55",
-    "pino": "9.5.0",
-    "qrcode": "^1.5.4",
-    "qrcode-terminal": "^0.12.0"
+"@whiskeysockets/baileys":"npm:wileys",
+"@adiwajshing/keyed-db": "^0.2.4",
+"qrcode": "^1.5.4",
+"awesome-phonenumber": "^2.64.0",
+"pino": "^10.1.0",
+"phone": "3.1.68",
+"body-parser": "^1.20.1",
+"express": "^4.18.1",
+"path": "^0.12.7",
+"megajs": "1.3.9",
+"pm2": "^6.0.14",
+"jimp": "^0.16.1",
+"async-mutex": "0.4.1"
   }
 }
 
