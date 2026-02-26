@@ -1,8 +1,8 @@
 
 {
-  "name": "𝗠𝗔𝗡𝗜𝗜-𝟬𝟱-𝗠𝗗",
+  "name": "MANII-05-MD",
   "version": "1.0.0",
-  "description": "𝗠𝗔𝗡𝗜𝗜-𝟬𝟱-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗣𝗮𝗶𝗿 𝗖𝗼𝗱𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗯𝘆 𝗠𝗔𝗡𝗜𝗜𝟬𝟱 💀🇵🇰",
+  "description": "MANII-05-MD - Whatsapp Pair Code Generator By MANII05",
   "main": "index.js",
   "type": "module",
   "engines": {
@@ -12,7 +12,7 @@
     "start": "node index.js",
     "build": "echo 'No build step required'"
   },
-  "author": "𝗠𝗔𝗡𝗜𝗜-𝟬𝟱-𝗠𝗗",
+  "author": "MANII-05-MD",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
